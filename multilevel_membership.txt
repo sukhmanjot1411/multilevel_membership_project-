@@ -1,0 +1,5 @@
+1 0 2 3 Sukhmanjot 1750
+2 1 0 0 Ripu 0
+3 1 4 5 Ekroop 500
+4 3 0 0 Ayush 0
+5 3 0 0 Ayushi 0
